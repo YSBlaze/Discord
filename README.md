@@ -1,2 +1,2 @@
 # Discord
-EA Sports, news bot
+gd
